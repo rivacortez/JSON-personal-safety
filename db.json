@@ -1,161 +1,154 @@
 {
-    "Personal safety": [
-      {
-        "nombre": "Juan Perez",
-        
-        "distrito": "Miraflores",
-        "edad": 30,
-        "sexo": "Masculino",
-        "experiencia": "5 años en seguridad",
-        "disponibilidad": "Tiempo completo",
-        "contrato": "Indefinido",
-        "foto": "https://images.unsplash.com/photo-1554579780-381ea7224ddd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-      },
-      {
-        "nombre": "Maria Rodriguez",
-        
-        "distrito": "San Isidro",
-        "edad": 25,
-        "sexo": "Femenino",
-        "experiencia": "3 años en seguridad",
-        "disponibilidad": "Medio tiempo",
-        "contrato": "Temporal",
-        "foto": "https://media.istockphoto.com/id/926718862/es/foto/polic%C3%ADa-y-socio-junto-a-la-patrulla.jpg?s=612x612&w=0&k=20&c=zJiGuWUK-c7iLPrZMZAf4OVZPeZtGWMQ17nmwjBPcfk="
-      },
-      {
-        "nombre": "Carlos Gutierrez",
-        "distrito": "Surco",
-        "edad": 35,
-        "sexo": "Masculino",
-        "experiencia": "15 años en seguridad",
-        "disponibilidad": "Tiempo completo",
-        "contrato": "Indefinido",
-        "foto": "https://images.unsplash.com/photo-1529478490015-00f1a2f8f5cd?q=80&w=1970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-      },
-      {
-        "nombre": "Luisa Martinez",
-        
-        "distrito": "San Juan de Miraflores",
-        "edad": 28,
-        "sexo": "Femenino",
-        "experiencia": "4 años en seguridad",
-        "disponibilidad": "Tiempo completo",
-        "contrato": "Indefinido",
-        "foto": "https://www.lanzadigital.com/wp-content/uploads/2022/05/Entrega_Reconocimientos_Seguridad_Privada_CD_11.jpg"
-      },
-      {
-        "nombre": "Pedro Lopez",
-        
-        "distrito": "Chorrillos",
-        "edad": 32,
-        "sexo": "Masculino",
-        "experiencia": "6 años en seguridad",
-        "disponibilidad": "Tiempo completo",
-        "contrato": "Indefinido",
-        "foto": "https://media.istockphoto.com/id/535483336/es/foto/polic%C3%ADa-en-acci%C3%B3n-con-luz-de-flash.jpg?s=612x612&w=0&k=20&c=0_sebkq3dmlUuU5bdASz3R_QonQMtuw4MT0Y7bKMwGs="
-      },
-      {
-        "nombre": "Ana Ramirez",
-       
-        "distrito": "Barranco",
-        "edad": 27,
-        "sexo": "Femenino",
-        "experiencia": "4 años en seguridad",
-        "disponibilidad": "Tiempo completo",
-        "contrato": "Indefinido",
-        "foto": "https://static.wixstatic.com/media/24e562_f4781d8a948c4a0c819288df2c12c5af~mv2.jpg/v1/fill/w_640,h_426,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/24e562_f4781d8a948c4a0c819288df2c12c5af~mv2.jpg"
-      },
-  
-      {
-        "nombre": "Julia Portugal",
-        "distrito": "Surquillo",
-        "edad": 32,
-        "sexo": "Femenino",
-        "experiencia": "4 años en seguridad",
-        "disponibilidad": "Tiempo completo",
-        "contrato": "Indefinido",
-        "foto": "https://media.istockphoto.com/id/175192867/es/foto/mujer-agente-de-seguridad.jpg?s=612x612&w=0&k=20&c=TiwidVvHWlGQGYd0z53LsVztPfpEtqu2JFrrWD1ky4A="
-      },
-      {
-        "nombre": "Luis Garcia",
-        "distrito": "San Isidro",
-        "edad": 29,
-        "sexo": "Masculino",
-        "experiencia": "8 años en seguridad",
-        "disponibilidad": "Tiempo completo",
-        "contrato": "Indefinido",
-        "foto": "https://img.freepik.com/fotos-premium/guardia-seguridad-masculino-usando-walkie-talkie_1016675-789.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1705104000&semt=sph"
-      },
-      {
-        "nombre": "Martha Fernandez",
-        "distrito": "Miraflores",
-        "edad": 31,
-        "sexo": "Femenino",
-        "experiencia": "5 años en seguridad",
-        "disponibilidad": "Medio tiempo",
-        "contrato": "Temporal",
-        "foto": "https://elperuano.pe/fotografia/thumbnail/2023/03/09/000239032M.jpg"
-      },
-      {
-        "nombre": "José Martinez",
-        "distrito": "Surco",
-        "edad": 33,
-        "sexo": "Masculino",
-        "experiencia": "10 años en seguridad",
-        "disponibilidad": "Tiempo completo",
-        "contrato": "Indefinido",
-        "foto": "https://media.gettyimages.com/id/157313264/es/foto/guardia-de-seguridad.jpg?s=612x612&w=0&k=20&c=EscBHLEtooPuDzI5_e7K5T8ejT3r84qtjtFvoahUva8="
-      },
-      {
-        "nombre": "Laura Gonzales",
-        "distrito": "San Borja",
-        "edad": 26,
-        "sexo": "Femenino",
-        "experiencia": "3 años en seguridad",
-        "disponibilidad": "Medio tiempo",
-        "contrato": "Temporal",
-        "foto": "https://st3.depositphotos.com/1177973/14616/i/450/depositphotos_146166213-stock-photo-beautiful-security-guard-on-white.jpg"
-      },
-      {
-        "nombre": "Carlos Ramirez",
-        "distrito": "Barranco",
-        "edad": 28,
-        "sexo": "Masculino",
-        "experiencia": "6 años en seguridad",
-        "disponibilidad": "Tiempo completo",
-        "contrato": "Indefinido",
-        "foto": "https://media.gettyimages.com/id/200455002-001/es/foto/man-standing-by-lorry-using-walkie-talkie.jpg?s=612x612&w=0&k=20&c=ZJ3pFQVtQO01Z5WqyxaRd27s28cTR7M5DOtnL_uD0mQ="
-      },
-      {
-        "nombre": "Elena Sanchez",
-        "distrito": "Ate",
-        "edad": 30,
-        "sexo": "Femenino",
-        "experiencia": "7 años en seguridad",
-        "disponibilidad": "Tiempo completo",
-        "contrato": "Indefinido",
-        "foto": "https://st4.depositphotos.com/16122460/30968/i/450/depositphotos_309681142-stock-photo-female-security-guard-in-uniform.jpg"
-      },
-      {
-        "nombre": "Jorge Fernandez",
-        "distrito": "Los Olivos",
-        "edad": 54,
-        "sexo": "Masculino",
-        "experiencia": "19 años en seguridad",
-        "disponibilidad": "Tiempo completo",
-        "contrato": "Indefinido",
-        "foto": "https://media.gettyimages.com/id/1263019949/es/foto/guardia-de-seguridad-trabajando-en-una-comunidad-cerrada-y-hablando-en-su-walkie-talkie.jpg?s=612x612&w=0&k=20&c=I07M14YGeNYrSSwehLQzYQD9YFbIs5InNChKLHOgk3o="
-      },
-      {
-        "nombre": "Gabriela Lopez",
-        "distrito": "San Martin de Porres",
-        "edad": 26,
-        "sexo": "Femenino",
-        "experiencia": "4 años en seguridad",
-        "disponibilidad": "Tiempo completo",
-        "contrato": "Indefinido",
-        "foto": "https://image.made-in-china.com/44f3j00EtmQZizFJupk/2016-Nuevo-dise-o-de-seguridad-baratos-uniformes-para-las-mujeres-de-alta-calidad-uniforme-ceremonial-militar-personalizar-el-uniforme-del-personal-de-guardia.webp"
-      }
-     
-    ]
-  }
+  "personalsafety": [
+    {
+      "nombre": "Juan Perez",
+      "distrito": "Miraflores",
+      "edad": 30,
+      "sexo": "Masculino",
+      "experiencia": "5 años en seguridad",
+      "disponibilidad": "Tiempo completo",
+      "contrato": "Indefinido",
+      "foto": "https://images.unsplash.com/photo-1554579780-381ea7224ddd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "nombre": "Maria Rodriguez",
+      "distrito": "San Isidro",
+      "edad": 25,
+      "sexo": "Femenino",
+      "experiencia": "3 años en seguridad",
+      "disponibilidad": "Medio tiempo",
+      "contrato": "Temporal",
+      "foto": "https://media.istockphoto.com/id/926718862/es/foto/polic%C3%ADa-y-socio-junto-a-la-patrulla.jpg?s=612x612&w=0&k=20&c=zJiGuWUK-c7iLPrZMZAf4OVZPeZtGWMQ17nmwjBPcfk="
+    },
+    {
+      "nombre": "Carlos Gutierrez",
+      "distrito": "Surco",
+      "edad": 35,
+      "sexo": "Masculino",
+      "experiencia": "15 años en seguridad",
+      "disponibilidad": "Tiempo completo",
+      "contrato": "Indefinido",
+      "foto": "https://images.unsplash.com/photo-1529478490015-00f1a2f8f5cd?q=80&w=1970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "nombre": "Luisa Martinez",
+      "distrito": "San Juan de Miraflores",
+      "edad": 28,
+      "sexo": "Femenino",
+      "experiencia": "4 años en seguridad",
+      "disponibilidad": "Tiempo completo",
+      "contrato": "Indefinido",
+      "foto": "https://www.lanzadigital.com/wp-content/uploads/2022/05/Entrega_Reconocimientos_Seguridad_Privada_CD_11.jpg"
+    },
+    {
+      "nombre": "Pedro Lopez",
+      "distrito": "Chorrillos",
+      "edad": 32,
+      "sexo": "Masculino",
+      "experiencia": "6 años en seguridad",
+      "disponibilidad": "Tiempo completo",
+      "contrato": "Indefinido",
+      "foto": "https://media.istockphoto.com/id/535483336/es/foto/polic%C3%ADa-en-acci%C3%B3n-con-luz-de-flash.jpg?s=612x612&w=0&k=20&c=0_sebkq3dmlUuU5bdASz3R_QonQMtuw4MT0Y7bKMwGs="
+    },
+    {
+      "nombre": "Ana Ramirez",
+      "distrito": "Barranco",
+      "edad": 27,
+      "sexo": "Femenino",
+      "experiencia": "4 años en seguridad",
+      "disponibilidad": "Tiempo completo",
+      "contrato": "Indefinido",
+      "foto": "https://static.wixstatic.com/media/24e562_f4781d8a948c4a0c819288df2c12c5af~mv2.jpg/v1/fill/w_640,h_426,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/24e562_f4781d8a948c4a0c819288df2c12c5af~mv2.jpg"
+    },
+    {
+      "nombre": "Julia Portugal",
+      "distrito": "Surquillo",
+      "edad": 32,
+      "sexo": "Femenino",
+      "experiencia": "4 años en seguridad",
+      "disponibilidad": "Tiempo completo",
+      "contrato": "Indefinido",
+      "foto": "https://media.istockphoto.com/id/175192867/es/foto/mujer-agente-de-seguridad.jpg?s=612x612&w=0&k=20&c=TiwidVvHWlGQGYd0z53LsVztPfpEtqu2JFrrWD1ky4A="
+    },
+    {
+      "nombre": "Luis Garcia",
+      "distrito": "San Isidro",
+      "edad": 29,
+      "sexo": "Masculino",
+      "experiencia": "8 años en seguridad",
+      "disponibilidad": "Tiempo completo",
+      "contrato": "Indefinido",
+      "foto": "https://img.freepik.com/fotos-premium/guardia-seguridad-masculino-usando-walkie-talkie_1016675-789.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1705104000&semt=sph"
+    },
+    {
+      "nombre": "Martha Fernandez",
+      "distrito": "Miraflores",
+      "edad": 31,
+      "sexo": "Femenino",
+      "experiencia": "5 años en seguridad",
+      "disponibilidad": "Medio tiempo",
+      "contrato": "Temporal",
+      "foto": "https://elperuano.pe/fotografia/thumbnail/2023/03/09/000239032M.jpg"
+    },
+    {
+      "nombre": "José Martinez",
+      "distrito": "Surco",
+      "edad": 33,
+      "sexo": "Masculino",
+      "experiencia": "10 años en seguridad",
+      "disponibilidad": "Tiempo completo",
+      "contrato": "Indefinido",
+      "foto": "https://media.gettyimages.com/id/157313264/es/foto/guardia-de-seguridad.jpg?s=612x612&w=0&k=20&c=EscBHLEtooPuDzI5_e7K5T8ejT3r84qtjtFvoahUva8="
+    },
+    {
+      "nombre": "Laura Gonzales",
+      "distrito": "San Borja",
+      "edad": 26,
+      "sexo": "Femenino",
+      "experiencia": "3 años en seguridad",
+      "disponibilidad": "Medio tiempo",
+      "contrato": "Temporal",
+      "foto": "https://st3.depositphotos.com/1177973/14616/i/450/depositphotos_146166213-stock-photo-beautiful-security-guard-on-white.jpg"
+    },
+    {
+      "nombre": "Carlos Ramirez",
+      "distrito": "Barranco",
+      "edad": 28,
+      "sexo": "Masculino",
+      "experiencia": "6 años en seguridad",
+      "disponibilidad": "Tiempo completo",
+      "contrato": "Indefinido",
+      "foto": "https://media.gettyimages.com/id/200455002-001/es/foto/man-standing-by-lorry-using-walkie-talkie.jpg?s=612x612&w=0&k=20&c=ZJ3pFQVtQO01Z5WqyxaRd27s28cTR7M5DOtnL_uD0mQ="
+    },
+    {
+      "nombre": "Elena Sanchez",
+      "distrito": "Ate",
+      "edad": 30,
+      "sexo": "Femenino",
+      "experiencia": "7 años en seguridad",
+      "disponibilidad": "Tiempo completo",
+      "contrato": "Indefinido",
+      "foto": "https://st4.depositphotos.com/16122460/30968/i/450/depositphotos_309681142-stock-photo-female-security-guard-in-uniform.jpg"
+    },
+    {
+      "nombre": "Jorge Fernandez",
+      "distrito": "Los Olivos",
+      "edad": 54,
+      "sexo": "Masculino",
+      "experiencia": "19 años en seguridad",
+      "disponibilidad": "Tiempo completo",
+      "contrato": "Indefinido",
+      "foto": "https://media.gettyimages.com/id/1263019949/es/foto/guardia-de-seguridad-trabajando-en-una-comunidad-cerrada-y-hablando-en-su-walkie-talkie.jpg?s=612x612&w=0&k=20&c=I07M14YGeNYrSSwehLQzYQD9YFbIs5InNChKLHOgk3o="
+    },
+    {
+      "nombre": "Gabriela Lopez",
+      "distrito": "San Martin de Porres",
+      "edad": 26,
+      "sexo": "Femenino",
+      "experiencia": "4 años en seguridad",
+      "disponibilidad": "Tiempo completo",
+      "contrato": "Indefinido",
+      "foto": "https://image.made-in-china.com/44f3j00EtmQZizFJupk/2016-Nuevo-dise-o-de-seguridad-baratos-uniformes-para-las-mujeres-de-alta-calidad-uniforme-ceremonial-militar-personalizar-el-uniforme-del-personal-de-guardia.webp"
+    }
+  ]
+}
